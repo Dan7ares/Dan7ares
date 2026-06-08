@@ -18,11 +18,7 @@
 
 <br/>
 
-<!-- Profile views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=Dan7ares&label=Profile%20views&color=00c6ff&style=flat" alt="profile views" />
-<a href="https://github.com/Dan7ares?tab=followers">
-  <img src="https://img.shields.io/github/followers/Dan7ares?label=Followers&style=flat&color=00c6ff" alt="followers" />
-</a>
+
 
 <br/><br/>
 
