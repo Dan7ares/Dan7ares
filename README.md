@@ -105,10 +105,10 @@ open_to:     Remote / Hybrid roles — well-paid, international, AI-driven
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| 📡 [**Spectrum Sensing for Cognitive Radio**](https://github.com/Dan7ares/Proyecto-de-Grado) | ML classifiers (Random Forest, LogReg, SVC) detecting spectrum occupancy from real antenna measurements — Telecom Engineering thesis | `scikit-learn` `pandas` `SQLite` |
+| 📡 [**Spectrum Sensing for Cognitive Radio**](https://github.com/Dan7ares/spectrum-sensing-cognitive-radio) | ML classifiers (Random Forest, LogReg, SVC) detecting spectrum occupancy from real antenna measurements — Telecom Engineering thesis | `scikit-learn` `pandas` `SQLite` |
 | 🛰️ [**TelcoOps-Mini**](https://github.com/Dan7ares/telco-ops-mini) | Miniature telecom NOC: asyncio monitoring, auto-ticketing with load balancing, local LLM chatbot (Ollama) | `asyncio` `ZODB` `Ollama` `Docker` |
-| 🧹 [**Temp File Cleaner**](https://github.com/Dan7ares/limpiador-temporales-2026-07-07) | Find & purge junk files with disk-space reporting — part of my **daily automation series** | `Python` `pytest` `CI` |
-| 📱 [**QR Code Generator**](https://github.com/Dan7ares/qr-generator-2026-07-07) | Batch QR code generation from text/URLs — part of my **daily automation series** | `Python` `Pillow` `CI` |
+| 🧹 [**Temp File Cleaner**](https://github.com/Dan7ares/temp-file-cleaner) | Find & purge junk files with disk-space reporting — part of my **daily automation series** | `Python` `pytest` `CI` |
+| 📱 [**QR Code Generator**](https://github.com/Dan7ares/qr-code-generator) | Batch QR code generation from text/URLs — part of my **daily automation series** | `Python` `Pillow` `CI` |
 | 🔒 **Inversiones-Automatizadas** *(private)* | Autonomous trading system on MetaTrader 5 with monitoring, alerting and AI-driven analysis | `Python` `MT5` `AI` |
 
 > ⚡ **Daily Automation Series** — I publish one new, fully-tested automation tool **every day**: real code, pytest suites and CI pipelines. Check my [repositories](https://github.com/Dan7ares?tab=repositories) for the latest.
