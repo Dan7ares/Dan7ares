@@ -109,7 +109,7 @@ open_to:     Remote / Hybrid roles — well-paid, international, AI-driven
 | 🛰️ [**TelcoOps-Mini**](https://github.com/Dan7ares/telco-ops-mini) | Miniature telecom NOC: asyncio monitoring, auto-ticketing with load balancing, local LLM chatbot (Ollama) | `asyncio` `ZODB` `Ollama` `Docker` |
 | 🧹 [**Temp File Cleaner**](https://github.com/Dan7ares/temp-file-cleaner) | Find & purge junk files with disk-space reporting — part of my **daily automation series** | `Python` `pytest` `CI` |
 | 📱 [**QR Code Generator**](https://github.com/Dan7ares/qr-code-generator) | Batch QR code generation from text/URLs — part of my **daily automation series** | `Python` `Pillow` `CI` |
-| 🔒 **Inversiones-Automatizadas** *(private)* | Autonomous trading system on MetaTrader 5 with monitoring, alerting and AI-driven analysis | `Python` `MT5` `AI` |
+| 📈 [**Algo-Trading Portfolio**](https://github.com/Dan7ares/algo-trading-portfolio) | Architecture showcase of **8+ private trading systems**: event-driven MT5 framework, ML research, microservices, funding-rate carry (ccxt) | `Python` `MT5` `ccxt` `Docker` |
 
 > ⚡ **Daily Automation Series** — I publish one new, fully-tested automation tool **every day**: real code, pytest suites and CI pipelines. Check my [repositories](https://github.com/Dan7ares?tab=repositories) for the latest.
 
