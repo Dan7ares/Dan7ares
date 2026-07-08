@@ -110,6 +110,9 @@ open_to:     Remote / Hybrid roles — well-paid, international, AI-driven
 |---------|--------------|-------|
 | 📡 [**Spectrum Sensing for Cognitive Radio**](https://github.com/Dan7ares/spectrum-sensing-cognitive-radio) | ML classifiers (Random Forest, LogReg, SVC) detecting spectrum occupancy from real antenna measurements — Telecom Engineering thesis | `scikit-learn` `pandas` `SQLite` |
 | 🛰️ [**TelcoOps-Mini**](https://github.com/Dan7ares/telco-ops-mini) | Miniature telecom NOC: asyncio monitoring, auto-ticketing with load balancing, local LLM chatbot (Ollama) | `asyncio` `ZODB` `Ollama` `Docker` |
+| 📦 [**StockPro**](https://github.com/Dan7ares/stockpro) | Multi-tenant inventory for SMBs: **barcode scanning**, printable labels, n8n alerts — full stack in Docker | `Node.js` `React` `MySQL` `Docker` |
+| 💰 [**Personal Finance App**](https://github.com/Dan7ares/personal-finance-app) | 9-module finance manager: accounts, loans, investments, budgets, 5 calculators, Telegram alerts | `React 18` `Express` `MySQL` `n8n` |
+| 📡 [**Microwave Link Planner**](https://github.com/Dan7ares/microwave-link-planner) | ITU-R compliant radio link design: link budget, Fresnel, rain fade — 110 km Andes double-hop | `Python` `NumPy` `ITU-R` |
 | 🧹 [**Temp File Cleaner**](https://github.com/Dan7ares/temp-file-cleaner) | Find & purge junk files with disk-space reporting — part of my **daily automation series** | `Python` `pytest` `CI` |
 | 📱 [**QR Code Generator**](https://github.com/Dan7ares/qr-code-generator) | Batch QR code generation from text/URLs — part of my **daily automation series** | `Python` `Pillow` `CI` |
 | 📈 [**Algo-Trading Portfolio**](https://github.com/Dan7ares/algo-trading-portfolio) | Architecture showcase of **8+ private trading systems**: event-driven MT5 framework, ML research, microservices, funding-rate carry (ccxt) | `Python` `MT5` `ccxt` `Docker` |
