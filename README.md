@@ -97,7 +97,7 @@ open_to:     Remote / Hybrid roles — well-paid, international, AI-driven
 |----|--------|
 | **AI delivery at scale** | Led end-to-end AI solutions for **8+ enterprise clients** in finance, retail, airport operations & tech |
 | **Global teams** | Coordinated distributed Scrum teams across **7 countries** (MX, CO, PY, CR, BR, AR, ES) |
-| **High-profile clients** | El Dorado Airport · Puma · GS1 · KOCH Industries · Banco Industrial · EY Spain · DIGIO (BR) |
+| **High-profile clients** | A leading LATAM international airport · global retail & consumer brands · banking and fintech across LATAM & Europe |
 | **Reusable frameworks** | Built **prompt-engineering frameworks** that cut solution-design time across industries |
 | **Technical pre-sales** | C-level demos & proposals driving pipeline growth and international expansion |
 
