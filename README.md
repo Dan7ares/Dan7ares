@@ -46,7 +46,7 @@
 name:        Daniel Santiago Amaya
 role:        Technical Project Manager  →  AI & Prompt Engineering @ Ernst & Young (EY)
 focus:       LLM solutions · Document & Workflow Automation · Agile delivery
-education:   B.Eng. Telecommunications (final semester) · Universidad Distrital
+education:   B.Eng. Telecommunications · Universidad Distrital
 mission:     Turn enterprise problems into scalable AI automation
 clients:     Fortune 500 & multinationals across 7 countries 🌎
 open_to:     Remote / Hybrid roles — well-paid, international, AI-driven
